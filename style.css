@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+h1 {
+    
+    font-size: 3rem;
+    text-transform:uppercase
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: EB+Garamond-ital;
+    text-align: center;
+}
+p {
+    font-family:Dancing Script;
+    font-size: 20px;
+}
+.motivational-img{
+    border: 5px solid rgb(212, 0, 255);
+    width: 50%;
+    
+    
+} 
+
